@@ -3,9 +3,9 @@ import { Form, Button } from "react-bootstrap";
 import api from "../services/api";
 import { useNavigate, useParams } from "react-router-dom";
 
-export default function Productform(){
+export default function ProductForm(){
     const{id} = useParams();
-    const navigate= useNavigate();
+    const navigate = useNavigate();
     const [product, setProduct] = useState({
         nome:"",
         preco:"",
@@ -50,6 +50,11 @@ export default function Productform(){
                     <Form.Control type="number" step="0.01" name="preco"
                     value={product.preco} onChange={handleChange} required/>
                  </Form.Group>
+
+                      <Form.Group className="mb-3">
+                        <Form.Check type="checkbox" Label="Ativo" name="ativo"
+                                checked={product.ativo} onChange={handleChange} />
+                        </Form.Group>
 
                  <Button type="submit" variant="success">Salvar</Button>
          </Form>
