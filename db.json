@@ -12,7 +12,7 @@
       "id": "d930",
       "nome": "Pc nintendo",
       "preco": 2999.99,
-      "ativo": true,
+      "ativo": false,
       "data_criacao": "2025-09-09",
       "data_atualizacao": "2025-09-09"
     },
@@ -31,6 +31,134 @@
       "ativo": true,
       "data_criacao": "2025-09-09",
       "data_atualizacao": "2025-09-09"
+    },
+    {
+      "id": "73f6",
+      "nome": "Mouse Kaboom",
+      "preco": 79.9,
+      "ativo": true,
+      "data_criacao": "2025-09-15",
+      "data_atualizacao": "2025-09-15"
+    },
+    {
+      "id": "5917",
+      "nome": "Teclado Ikaris",
+      "preco": 70,
+      "ativo": true,
+      "data_criacao": "2025-09-15",
+      "data_atualizacao": "2025-09-15"
+    },
+    {
+      "id": "27af",
+      "nome": "Iphone 15 5G",
+      "preco": 3499,
+      "ativo": true,
+      "data_criacao": "2025-09-15",
+      "data_atualizacao": "2025-09-15"
+    },
+    {
+      "id": "7d57",
+      "nome": "Samsung A14 5G",
+      "preco": 970,
+      "ativo": true,
+      "data_criacao": "2025-09-15",
+      "data_atualizacao": "2025-09-15"
+    },
+    {
+      "id": "ea2c",
+      "nome": "Notebook Acer G480",
+      "preco": 2500,
+      "ativo": true,
+      "data_criacao": "2025-09-15",
+      "data_atualizacao": "2025-09-15"
+    },
+    {
+      "id": "9a90",
+      "nome": "Mouse Kaboom G35",
+      "preco": 120,
+      "ativo": true,
+      "data_criacao": "2025-09-15",
+      "data_atualizacao": "2025-09-15"
+    },
+    {
+      "id": "915c",
+      "nome": "Notebook Acer G485",
+      "preco": 5000,
+      "ativo": true,
+      "data_criacao": "2025-09-16",
+      "data_atualizacao": "2025-09-16"
+    },
+    {
+      "id": "c20f",
+      "nome": "Bracelete MemoAI",
+      "preco": 5670,
+      "ativo": true,
+      "data_criacao": "2025-09-16",
+      "data_atualizacao": "2025-09-16"
+    },
+    {
+      "id": "25eb",
+      "nome": "Teclado mecânica Rufus",
+      "preco": 468.99,
+      "ativo": true,
+      "data_criacao": "2025-09-16",
+      "data_atualizacao": "2025-09-16"
+    },
+    {
+      "id": "8b29",
+      "nome": "Relógio Smartwatch Samsung",
+      "preco": 499,
+      "ativo": true,
+      "data_criacao": "2025-09-16",
+      "data_atualizacao": "2025-09-16"
+    },
+    {
+      "id": "2f4b",
+      "nome": "Iphone 13 Pro Max",
+      "preco": 3799,
+      "ativo": false,
+      "data_criacao": "2025-09-16",
+      "data_atualizacao": "2025-09-16"
+    },
+    {
+      "id": "6da0",
+      "nome": "Pulseira inteligente Marik",
+      "preco": 129.99,
+      "ativo": true,
+      "data_criacao": "2025-09-16",
+      "data_atualizacao": "2025-09-16"
+    },
+    {
+      "id": "1f12",
+      "nome": "Playstation 4 1 TGB",
+      "preco": 2999.99,
+      "ativo": false,
+      "data_criacao": "2025-09-16",
+      "data_atualizacao": "2025-09-16"
+    },
+    {
+      "id": "d0d1",
+      "nome": "Impressora 3D",
+      "preco": 570.5,
+      "ativo": true,
+      "data_criacao": "2025-09-16",
+      "data_atualizacao": "2025-09-16"
+    },
+    {
+      "id": "aad7",
+      "nome": "Mouse Kaboom L89",
+      "preco": 49.9,
+      "ativo": true,
+      "data_criacao": "2025-09-16",
+      "data_atualizacao": "2025-09-16"
+    },
+    {
+      "id": "9b3d",
+      "nome": "Notebook Lenovo T893",
+      "preco": 6999.9,
+      "ativo": false,
+      "data_criacao": "2025-09-16",
+      "data_atualizacao": "2025-09-16"
     }
   ]
 }
